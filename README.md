@@ -38,11 +38,11 @@ npm install
 ۳. اجرای سرور
 
 bash
-node server.js
+node index.js
 یا اگر nodemon دارید:
 
 bash
-nodemon server.js
+nodemon index.js
 ۴. باز کردن در مرورگر
 
 text
